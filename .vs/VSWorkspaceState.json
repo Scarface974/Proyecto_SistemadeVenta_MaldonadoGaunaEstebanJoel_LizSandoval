@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CapaEntidad",
+    "\\CapaNegocio",
+    "\\CapaPresentacion",
+    "\\CapaPresentacion\\bin",
+    "\\CapaPresentacion\\bin\\Debug",
+    "\\CapaPresentacion\\obj",
+    "\\CapaPresentacion\\Properties",
+    "\\CapaPresentacion\\Resources",
+    "\\CapaPresentacion\\Utilidades"
+  ],
+  "SelectedNode": "\\SistemaVenta.sln",
+  "PreviewInSolutionExplorer": false
+}
